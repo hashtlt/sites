@@ -1,0 +1,25 @@
+Rinse & Restore website - photo list
+Drop a photo into this folder with the exact file name below and it shows up on the website automatically.
+Landscape photos (3:2) unless noted. JPG, about 1600 px wide, under 500 KB each.
+
+IN USE NOW
+  hero-solar-home.webp   Top banner + solar panel card
+  francois.jpg           Original photo (with cigarette) - no longer used
+
+SERVICE CARDS
+  service-house.jpg      House soft wash
+  service-roof.jpg       Roof soft wash
+  service-driveway.jpg   Driveway / patio cleaning
+  service-fence.jpg      Fence / deck wash
+
+MEET ME SECTION (portrait 4:5)
+  francois-headshot.jpg  Francois headshot, middle photo
+  about-roof.jpg         Francois working on a roof
+  about-panels.jpg       Brushing solar panels
+
+BEFORE / AFTER (3 examples, landscape 3:2)
+  job1-before.jpg  job1-after.jpg   Solar panels
+  job2-before.jpg  job2-after.jpg   Stucco wall
+  job3-before.jpg  job3-after.jpg   Driveway
+
+NO LONGER USED: about-roof.jpg, about-panels.jpg, francois.jpg, francois-avatar.jpg
